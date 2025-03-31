@@ -20,4 +20,30 @@ tuple2 = ("hello")
 
 tuple3 = ("hello",)
 # if tuple creates with more then 1 item then it's tuple
-print(type(tuple3))
+# print(type(tuple3))
+
+
+
+# tuple data types
+
+
+tuple4 = (2, 49, 89, 12, 42, 84)
+
+# print(tuple4)
+
+
+
+tuple5 = (True, False, True, False, True, 1, 0, "hello")
+
+
+print(tuple5)
+
+
+# tuple constructor
+
+tuple6 = tuple(("hello", 5, "World", 20, True, None))
+
+
+print(tuple6)
+
+print(type(tuple6))
